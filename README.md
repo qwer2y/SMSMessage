@@ -1,7 +1,6 @@
 # SMSMessage
 
 适用于Android 4.4之后需要设置成默认短信应用
-
 Manifest中需要声明的:
 
 <receiver
